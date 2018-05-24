@@ -6,5 +6,5 @@ C:\Users\hanea\source\repos\TextAnalyse\Demo\obj\Debug\Demo.exe
 C:\Users\hanea\source\repos\TextAnalyse\Demo\obj\Debug\Demo.pdb
 C:\Users\hanea\source\repos\TextAnalyse\Demo\bin\Debug\TextAnalyse.dll
 C:\Users\hanea\source\repos\TextAnalyse\Demo\bin\Debug\TextAnalyse.pdb
-C:\Users\hanea\source\repos\TextAnalyse\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
 C:\Users\hanea\source\repos\TextAnalyse\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\hanea\source\repos\TextAnalyse\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache

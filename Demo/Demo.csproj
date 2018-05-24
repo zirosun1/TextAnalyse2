@@ -59,9 +59,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TextAnalyse\TextAnalyse.csproj">
+    <ProjectReference Include="..\TextAnalyse\Analyse.csproj">
       <Project>{672756c2-3199-45f9-865d-db6b6ba3bd04}</Project>
-      <Name>TextAnalyse</Name>
+      <Name>Analyse</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
